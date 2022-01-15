@@ -1,10 +1,4 @@
-numpy==1.6.2
+
 Django==3.2.8
-django-tastypie==0.9.14
-urllib3==1.5
-pyes==0.19.1
 
-Pillow==2.0.0
-
-django-celery==3.0.11
 
